@@ -1,0 +1,22 @@
+{
+    "name": "create-somdocs-starter",
+    "version": "1.0.0",
+    "description": "CLI to create a new SomDocs project",
+    "type": "module",
+    "bin": {
+        "create-somdocs-starter": "./bin.js"
+    },
+    "keywords": [
+        "create-somdocs",
+        "astro",
+        "documentation",
+        "theme"
+    ],
+    "author": "Adam-Elmi",
+    "license": "MIT",
+    "dependencies": {
+        "kleur": "^4.1.5",
+        "prompts": "^2.4.2",
+        "tiged": "^2.12.5"
+    }
+}
