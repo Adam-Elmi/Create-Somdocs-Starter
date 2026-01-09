@@ -4,7 +4,7 @@ CLI to create a new SomDocs project.
 
 ## Usage
 
-```bash
+```sh
 npx create-somdocs-starter@latest [project-name]
 ```
 
